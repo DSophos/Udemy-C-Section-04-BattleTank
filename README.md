@@ -10,3 +10,5 @@ Built with the Unreal Couse on Udemy by Ben Tristem.
 * BT03 Game Design Document (GDD)
 * BT04 Setting Up a GitHub "Repo"
 * BT05 Creating & Deleting Landscapes
+* BT06 Landscape Setup & Scaling
+* BT07 A Landscaping Process
